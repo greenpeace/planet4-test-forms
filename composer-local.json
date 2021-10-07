@@ -4,7 +4,7 @@
     "license": "MIT",
     "require": {
         "greenpeace/planet4-master-theme" : "dev-master",
-        "greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master",
+        "greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master"
     },
     "scripts": {
         "install:plugin-gravityforms": "wp plugin install --activate https://storage.googleapis.com/planet4-3rdparty-plugins/gravityforms_2.4.21.5.zip",
