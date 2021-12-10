@@ -5,6 +5,7 @@
     "require": {
         "greenpeace/planet4-master-theme" : "dev-master",
         "greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master",
+        "wpackagist-plugin/gravity-forms-google-analytics-event-tracking": "2.4.*",
         "plugins/gravityforms": "*",
         "plugins/gravityformsquiz": "*"
     },
