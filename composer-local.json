@@ -7,7 +7,8 @@
         "greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master",
         "wpackagist-plugin/gravity-forms-google-analytics-event-tracking": "2.4.*",
         "plugins/gravityforms": "*",
-        "plugins/gravityformsquiz": "*"
+        "plugins/gravityformsquiz": "*",
+        "plugins/gravityformshubspot": "*"
     },
     "scripts": {}
 }
