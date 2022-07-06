@@ -5,11 +5,10 @@
     "require": {
         "greenpeace/planet4-master-theme" : "dev-master",
         "greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master",
-        "wpackagist-plugin/gravity-forms-google-analytics-event-tracking": "2.4.*",
         "plugins/gravityformshubspot": "*"
     },
     "scripts": {
-        "install:plugin-gravityformsgoogleanalytics": "wp plugin install --activate https://storage.googleapis.com/planet4-3rdparty-plugins/gravityformsgoogleanalytics_1.0-beta-1.zip",
+        "install:plugin-gravityformsgoogleanalytics": "wp plugin install --activate https://storage.googleapis.com/planet4-3rdparty-plugins/gravityformsgoogleanalytics_1.0.zip",
         
         "site:custom": [
             "@install:plugin-gravityformsgoogleanalytics"
